@@ -1,0 +1,13 @@
+# Ignore local data and logs
+dataset/
+logs/
+models/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+venv/
+.vscode/
